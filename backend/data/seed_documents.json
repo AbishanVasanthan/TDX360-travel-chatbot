@@ -1,0 +1,857 @@
+[
+  {
+    "title": "What are the best places to visit in Paris, France?",
+    "body": "Paris, France is a popular destination in Europe. Highlights and recommended activities: historic sites, museums, and local cuisine.",
+    "metadata": {
+      "category": "destinations",
+      "region": "Europe"
+    }
+  },
+  {
+    "title": "What are the best places to visit in Rome, Italy?",
+    "body": "Rome, Italy is a popular destination in Europe. Highlights and recommended activities: historic sites, museums, and local cuisine.",
+    "metadata": {
+      "category": "destinations",
+      "region": "Europe"
+    }
+  },
+  {
+    "title": "What are the best places to visit in Barcelona, Spain?",
+    "body": "Barcelona, Spain is a popular destination in Europe. Highlights and recommended activities: historic sites, museums, and local cuisine.",
+    "metadata": {
+      "category": "destinations",
+      "region": "Europe"
+    }
+  },
+  {
+    "title": "What are the best places to visit in Amsterdam, Netherlands?",
+    "body": "Amsterdam, Netherlands is a popular destination in Europe. Highlights and recommended activities: historic sites, museums, and local cuisine.",
+    "metadata": {
+      "category": "destinations",
+      "region": "Europe"
+    }
+  },
+  {
+    "title": "What are the best places to visit in London, UK?",
+    "body": "London, UK is a popular destination in Europe. Highlights and recommended activities: historic sites, museums, and local cuisine.",
+    "metadata": {
+      "category": "destinations",
+      "region": "Europe"
+    }
+  },
+  {
+    "title": "What are the best places to visit in Prague, Czech Republic?",
+    "body": "Prague, Czech Republic is a popular destination in Europe. Highlights and recommended activities: historic sites, museums, and local cuisine.",
+    "metadata": {
+      "category": "destinations",
+      "region": "Europe"
+    }
+  },
+  {
+    "title": "What are the best places to visit in Santorini, Greece?",
+    "body": "Santorini, Greece is a popular destination in Europe. Highlights and recommended activities: historic sites, museums, and local cuisine.",
+    "metadata": {
+      "category": "destinations",
+      "region": "Europe"
+    }
+  },
+  {
+    "title": "What are the best places to visit in Lisbon, Portugal?",
+    "body": "Lisbon, Portugal is a popular destination in Europe. Highlights and recommended activities: historic sites, museums, and local cuisine.",
+    "metadata": {
+      "category": "destinations",
+      "region": "Europe"
+    }
+  },
+  {
+    "title": "What are the best places to visit in Budapest, Hungary?",
+    "body": "Budapest, Hungary is a popular destination in Europe. Highlights and recommended activities: historic sites, museums, and local cuisine.",
+    "metadata": {
+      "category": "destinations",
+      "region": "Europe"
+    }
+  },
+  {
+    "title": "What are the best places to visit in Istanbul, Turkey?",
+    "body": "Istanbul, Turkey is a popular destination in Europe/Asia. Highlights and recommended activities: historic sites, museums, and local cuisine.",
+    "metadata": {
+      "category": "destinations",
+      "region": "Europe/Asia"
+    }
+  },
+  {
+    "title": "What are the best places to visit in New York City, USA?",
+    "body": "New York City, USA is a popular destination in North America. Highlights and recommended activities: historic sites, museums, and local cuisine.",
+    "metadata": {
+      "category": "destinations",
+      "region": "North America"
+    }
+  },
+  {
+    "title": "What are the best places to visit in San Francisco, USA?",
+    "body": "San Francisco, USA is a popular destination in North America. Highlights and recommended activities: historic sites, museums, and local cuisine.",
+    "metadata": {
+      "category": "destinations",
+      "region": "North America"
+    }
+  },
+  {
+    "title": "What are the best places to visit in Los Angeles, USA?",
+    "body": "Los Angeles, USA is a popular destination in North America. Highlights and recommended activities: historic sites, museums, and local cuisine.",
+    "metadata": {
+      "category": "destinations",
+      "region": "North America"
+    }
+  },
+  {
+    "title": "What are the best places to visit in Vancouver, Canada?",
+    "body": "Vancouver, Canada is a popular destination in North America. Highlights and recommended activities: historic sites, museums, and local cuisine.",
+    "metadata": {
+      "category": "destinations",
+      "region": "North America"
+    }
+  },
+  {
+    "title": "What are the best places to visit in Toronto, Canada?",
+    "body": "Toronto, Canada is a popular destination in North America. Highlights and recommended activities: historic sites, museums, and local cuisine.",
+    "metadata": {
+      "category": "destinations",
+      "region": "North America"
+    }
+  },
+  {
+    "title": "What are the best places to visit in Rio de Janeiro, Brazil?",
+    "body": "Rio de Janeiro, Brazil is a popular destination in South America. Highlights and recommended activities: beaches, nature spots, and cultural landmarks.",
+    "metadata": {
+      "category": "destinations",
+      "region": "South America"
+    }
+  },
+  {
+    "title": "What are the best places to visit in Buenos Aires, Argentina?",
+    "body": "Buenos Aires, Argentina is a popular destination in South America. Highlights and recommended activities: beaches, nature spots, and cultural landmarks.",
+    "metadata": {
+      "category": "destinations",
+      "region": "South America"
+    }
+  },
+  {
+    "title": "What are the best places to visit in Cusco, Peru?",
+    "body": "Cusco, Peru is a popular destination in South America. Highlights and recommended activities: beaches, nature spots, and cultural landmarks.",
+    "metadata": {
+      "category": "destinations",
+      "region": "South America"
+    }
+  },
+  {
+    "title": "What are the best places to visit in Machu Picchu, Peru?",
+    "body": "Machu Picchu, Peru is a popular destination in South America. Highlights and recommended activities: beaches, nature spots, and cultural landmarks.",
+    "metadata": {
+      "category": "destinations",
+      "region": "South America"
+    }
+  },
+  {
+    "title": "What are the best places to visit in Santiago, Chile?",
+    "body": "Santiago, Chile is a popular destination in South America. Highlights and recommended activities: beaches, nature spots, and cultural landmarks.",
+    "metadata": {
+      "category": "destinations",
+      "region": "South America"
+    }
+  },
+  {
+    "title": "What are the best places to visit in Tokyo, Japan?",
+    "body": "Tokyo, Japan is a popular destination in Asia. Highlights and recommended activities: beaches, nature spots, and cultural landmarks.",
+    "metadata": {
+      "category": "destinations",
+      "region": "Asia"
+    }
+  },
+  {
+    "title": "What are the best places to visit in Kyoto, Japan?",
+    "body": "Kyoto, Japan is a popular destination in Asia. Highlights and recommended activities: beaches, nature spots, and cultural landmarks.",
+    "metadata": {
+      "category": "destinations",
+      "region": "Asia"
+    }
+  },
+  {
+    "title": "What are the best places to visit in Osaka, Japan?",
+    "body": "Osaka, Japan is a popular destination in Asia. Highlights and recommended activities: beaches, nature spots, and cultural landmarks.",
+    "metadata": {
+      "category": "destinations",
+      "region": "Asia"
+    }
+  },
+  {
+    "title": "What are the best places to visit in Seoul, South Korea?",
+    "body": "Seoul, South Korea is a popular destination in Asia. Highlights and recommended activities: beaches, nature spots, and cultural landmarks.",
+    "metadata": {
+      "category": "destinations",
+      "region": "Asia"
+    }
+  },
+  {
+    "title": "What are the best places to visit in Bangkok, Thailand?",
+    "body": "Bangkok, Thailand is a popular destination in Asia. Highlights and recommended activities: beaches, nature spots, and cultural landmarks.",
+    "metadata": {
+      "category": "destinations",
+      "region": "Asia"
+    }
+  },
+  {
+    "title": "What are the best places to visit in Chiang Mai, Thailand?",
+    "body": "Chiang Mai, Thailand is a popular destination in Asia. Highlights and recommended activities: beaches, nature spots, and cultural landmarks.",
+    "metadata": {
+      "category": "destinations",
+      "region": "Asia"
+    }
+  },
+  {
+    "title": "What are the best places to visit in Bali, Indonesia?",
+    "body": "Bali, Indonesia is a popular destination in Asia. Highlights and recommended activities: beaches, nature spots, and cultural landmarks.",
+    "metadata": {
+      "category": "destinations",
+      "region": "Asia"
+    }
+  },
+  {
+    "title": "What are the best places to visit in Phuket, Thailand?",
+    "body": "Phuket, Thailand is a popular destination in Asia. Highlights and recommended activities: beaches, nature spots, and cultural landmarks.",
+    "metadata": {
+      "category": "destinations",
+      "region": "Asia"
+    }
+  },
+  {
+    "title": "What are the best places to visit in Singapore?",
+    "body": "Singapore is a popular destination in Asia. Highlights and recommended activities: beaches, nature spots, and cultural landmarks.",
+    "metadata": {
+      "category": "destinations",
+      "region": "Asia"
+    }
+  },
+  {
+    "title": "What are the best places to visit in Hanoi, Vietnam?",
+    "body": "Hanoi, Vietnam is a popular destination in Asia. Highlights and recommended activities: beaches, nature spots, and cultural landmarks.",
+    "metadata": {
+      "category": "destinations",
+      "region": "Asia"
+    }
+  },
+  {
+    "title": "What are the best places to visit in Ho Chi Minh City, Vietnam?",
+    "body": "Ho Chi Minh City, Vietnam is a popular destination in Asia. Highlights and recommended activities: beaches, nature spots, and cultural landmarks.",
+    "metadata": {
+      "category": "destinations",
+      "region": "Asia"
+    }
+  },
+  {
+    "title": "What are the best places to visit in Cape Town, South Africa?",
+    "body": "Cape Town, South Africa is a popular destination in Africa. Highlights and recommended activities: beaches, nature spots, and cultural landmarks.",
+    "metadata": {
+      "category": "destinations",
+      "region": "Africa"
+    }
+  },
+  {
+    "title": "What are the best places to visit in Johannesburg, South Africa?",
+    "body": "Johannesburg, South Africa is a popular destination in Africa. Highlights and recommended activities: beaches, nature spots, and cultural landmarks.",
+    "metadata": {
+      "category": "destinations",
+      "region": "Africa"
+    }
+  },
+  {
+    "title": "What are the best places to visit in Marrakesh, Morocco?",
+    "body": "Marrakesh, Morocco is a popular destination in Africa. Highlights and recommended activities: beaches, nature spots, and cultural landmarks.",
+    "metadata": {
+      "category": "destinations",
+      "region": "Africa"
+    }
+  },
+  {
+    "title": "What are the best places to visit in Cairo, Egypt?",
+    "body": "Cairo, Egypt is a popular destination in Africa. Highlights and recommended activities: beaches, nature spots, and cultural landmarks.",
+    "metadata": {
+      "category": "destinations",
+      "region": "Africa"
+    }
+  },
+  {
+    "title": "What are the best places to visit in Nairobi, Kenya?",
+    "body": "Nairobi, Kenya is a popular destination in Africa. Highlights and recommended activities: beaches, nature spots, and cultural landmarks.",
+    "metadata": {
+      "category": "destinations",
+      "region": "Africa"
+    }
+  },
+  {
+    "title": "What are the best places to visit in Dubai, UAE?",
+    "body": "Dubai, UAE is a popular destination in Middle East. Highlights and recommended activities: beaches, nature spots, and cultural landmarks.",
+    "metadata": {
+      "category": "destinations",
+      "region": "Middle East"
+    }
+  },
+  {
+    "title": "What are the best places to visit in Abu Dhabi, UAE?",
+    "body": "Abu Dhabi, UAE is a popular destination in Middle East. Highlights and recommended activities: beaches, nature spots, and cultural landmarks.",
+    "metadata": {
+      "category": "destinations",
+      "region": "Middle East"
+    }
+  },
+  {
+    "title": "What are the best places to visit in Doha, Qatar?",
+    "body": "Doha, Qatar is a popular destination in Middle East. Highlights and recommended activities: beaches, nature spots, and cultural landmarks.",
+    "metadata": {
+      "category": "destinations",
+      "region": "Middle East"
+    }
+  },
+  {
+    "title": "What are the best places to visit in Auckland, New Zealand?",
+    "body": "Auckland, New Zealand is a popular destination in Oceania. Highlights and recommended activities: beaches, nature spots, and cultural landmarks.",
+    "metadata": {
+      "category": "destinations",
+      "region": "Oceania"
+    }
+  },
+  {
+    "title": "Packing checklist for a week-long trip",
+    "body": "Create a packing list including versatile clothing, toiletries, chargers, medications, and travel documents.",
+    "metadata": {
+      "category": "travel_tips"
+    }
+  },
+  {
+    "title": "How to save money on flights",
+    "body": "Use fare comparison tools, book in advance, be flexible with dates, and consider nearby airports.",
+    "metadata": {
+      "category": "travel_tips"
+    }
+  },
+  {
+    "title": "Staying safe when traveling solo",
+    "body": "Share your itinerary, use reputable transport, avoid isolated areas at night, and secure your belongings.",
+    "metadata": {
+      "category": "travel_tips"
+    }
+  },
+  {
+    "title": "Managing travel budgets",
+    "body": "Track daily spending, set a daily limit, use local transport, and eat at local markets.",
+    "metadata": {
+      "category": "travel_tips"
+    }
+  },
+  {
+    "title": "Avoiding tourist scams",
+    "body": "Research common local scams, be skeptical of overly friendly strangers offering deals, and use official taxis.",
+    "metadata": {
+      "category": "travel_tips"
+    }
+  },
+  {
+    "title": "How to handle lost luggage",
+    "body": "Report immediately to the airline, keep receipts, and file a claim with baggage services.",
+    "metadata": {
+      "category": "travel_tips"
+    }
+  },
+  {
+    "title": "Mobile data and SIM tips abroad",
+    "body": "Buy local SIMs where easy, enable international roaming only if needed, and use Wi‑Fi for heavy data.",
+    "metadata": {
+      "category": "travel_tips"
+    }
+  },
+  {
+    "title": "Travel health basics",
+    "body": "Get recommended vaccines, carry a first-aid kit, drink bottled water where advised, and know local emergency numbers.",
+    "metadata": {
+      "category": "travel_tips"
+    }
+  },
+  {
+    "title": "Tips for traveling with kids",
+    "body": "Pack entertainment, plan kid-friendly activities, schedule breaks, and choose family-friendly accommodation.",
+    "metadata": {
+      "category": "travel_tips"
+    }
+  },
+  {
+    "title": "How to choose travel insurance",
+    "body": "Check medical coverage, trip cancellation, baggage loss, and emergency evacuation benefits.",
+    "metadata": {
+      "category": "travel_tips"
+    }
+  },
+  {
+    "title": "Avoiding jet lag quickly",
+    "body": "Adjust sleep before travel, stay hydrated, get daylight exposure after arrival, and nap short if needed.",
+    "metadata": {
+      "category": "travel_tips"
+    }
+  },
+  {
+    "title": "Cultural etiquette basics",
+    "body": "Learn local greetings, respect dress codes for religious sites, and follow tipping norms.",
+    "metadata": {
+      "category": "travel_tips"
+    }
+  },
+  {
+    "title": "How to find local food safely",
+    "body": "Use popular local eateries, check hygiene standards, and ask locals for recommendations.",
+    "metadata": {
+      "category": "travel_tips"
+    }
+  },
+  {
+    "title": "Sustainable travel tips",
+    "body": "Reduce plastic use, choose eco-friendly accommodation, and support local businesses.",
+    "metadata": {
+      "category": "travel_tips"
+    }
+  },
+  {
+    "title": "How to use public transport like a pro",
+    "body": "Buy day passes, learn route maps in advance, and avoid rush hours when possible.",
+    "metadata": {
+      "category": "travel_tips"
+    }
+  },
+  {
+    "title": "Booking refundable fares vs non-refundable",
+    "body": "Refundable fares offer flexibility at higher price; non-refundable fares save money for fixed plans.",
+    "metadata": {
+      "category": "travel_tips"
+    }
+  },
+  {
+    "title": "Coping with language barriers",
+    "body": "Learn basic phrases, use translation apps, and carry a written address of your hotel.",
+    "metadata": {
+      "category": "travel_tips"
+    }
+  },
+  {
+    "title": "Essential travel apps to install",
+    "body": "Maps, translation, local transit apps, booking apps, and currency converters are useful.",
+    "metadata": {
+      "category": "travel_tips"
+    }
+  },
+  {
+    "title": "How to travel with pets",
+    "body": "Check airline and country regulations, get pet passports and vaccinations, and book pet-friendly stays.",
+    "metadata": {
+      "category": "travel_tips"
+    }
+  },
+  {
+    "title": "Safety with local currency and cards",
+    "body": "Use ATMs in safe locations, notify banks before travel, and split cash/cards for security.",
+    "metadata": {
+      "category": "travel_tips"
+    }
+  },
+  {
+    "title": "How to plan a last-minute trip",
+    "body": "Use package deals, flexible dates, and travel apps for last-minute discounts.",
+    "metadata": {
+      "category": "travel_tips"
+    }
+  },
+  {
+    "title": "Travel photography tips",
+    "body": "Back up photos regularly, respect local privacy, and carry extra batteries and memory cards.",
+    "metadata": {
+      "category": "travel_tips"
+    }
+  },
+  {
+    "title": "How to avoid overpacking",
+    "body": "Use packing cubes, plan outfits, and stick to essentials; laundry options help reduce clothing needs.",
+    "metadata": {
+      "category": "travel_tips"
+    }
+  },
+  {
+    "title": "Night travel safety tips",
+    "body": "Prefer licensed taxis, share real-time location with someone, and avoid unlit or deserted areas.",
+    "metadata": {
+      "category": "travel_tips"
+    }
+  },
+  {
+    "title": "How to get travel refunds and credits",
+    "body": "Keep receipts, follow provider procedures, and escalate with consumer protection if necessary.",
+    "metadata": {
+      "category": "travel_tips"
+    }
+  },
+  {
+    "title": "How to apply for a Schengen Visa",
+    "body": "Apply via the embassy/consulate of your main destination, provide passport, travel insurance, accommodation proof, and financial proof.",
+    "metadata": {
+      "category": "visa_info",
+      "region": "Schengen"
+    }
+  },
+  {
+    "title": "US Tourist Visa (B2) application steps",
+    "body": "Complete DS-160, schedule interview, show proof of funds and ties to home country; processing varies.",
+    "metadata": {
+      "category": "visa_info",
+      "region": "USA"
+    }
+  },
+  {
+    "title": "How to get an eVisa for Turkey",
+    "body": "Apply online for an eVisa, pay the fee, and receive authorization electronically before travel.",
+    "metadata": {
+      "category": "visa_info",
+      "region": "Turkey"
+    }
+  },
+  {
+    "title": "Applying for the UK Standard Visitor Visa",
+    "body": "Apply online, provide travel history, proof of funds, and purpose of visit; biometric appointment may be required.",
+    "metadata": {
+      "category": "visa_info",
+      "region": "UK"
+    }
+  },
+  {
+    "title": "Canada Visitor Visa requirements",
+    "body": "Provide passport, proof of funds, travel history, invitation letters if any, and biometrics if required.",
+    "metadata": {
+      "category": "visa_info",
+      "region": "Canada"
+    }
+  },
+  {
+    "title": "How to get an Australian Visitor Visa (Subclass 600)",
+    "body": "Apply online through the Department of Home Affairs; show proof of funds, passport and health insurance.",
+    "metadata": {
+      "category": "visa_info",
+      "region": "Australia"
+    }
+  },
+  {
+    "title": "Visa-free access for EU citizens",
+    "body": "EU passport holders enjoy visa-free or simplified entry to many countries; check country-specific rules before travel.",
+    "metadata": {
+      "category": "visa_info",
+      "region": "EU"
+    }
+  },
+  {
+    "title": "Transit visa basics",
+    "body": "Transit visas are short-term permits to pass through a country; check airport vs country transit rules.",
+    "metadata": {
+      "category": "visa_info",
+      "region": "Transit"
+    }
+  },
+  {
+    "title": "How to extend a tourist visa",
+    "body": "Apply at local immigration office before expiry; provide valid reasons and supporting documents.",
+    "metadata": {
+      "category": "visa_info",
+      "region": "General"
+    }
+  },
+  {
+    "title": "Business visa vs tourist visa differences",
+    "body": "Business visas allow work-related activities (meetings, conferences) but not employment; requirements differ.",
+    "metadata": {
+      "category": "visa_info",
+      "region": "General"
+    }
+  },
+  {
+    "title": "Student visa basics for studying abroad",
+    "body": "Apply with university acceptance, provide financial proof, and meet health/biometric requirements as needed.",
+    "metadata": {
+      "category": "visa_info",
+      "region": "Education"
+    }
+  },
+  {
+    "title": "How to get a New Zealand visitor visa",
+    "body": "Apply online, show travel plans, sufficient funds, and meet health requirements.",
+    "metadata": {
+      "category": "visa_info",
+      "region": "New Zealand"
+    }
+  },
+  {
+    "title": "How to obtain a UAE tourist visa",
+    "body": "Many nationalities can get a visa on arrival or apply online through airlines and travel agencies.",
+    "metadata": {
+      "category": "visa_info",
+      "region": "UAE"
+    }
+  },
+  {
+    "title": "Common visa application mistakes to avoid",
+    "body": "Incomplete documents, mismatched travel dates, insufficient funds, and last-minute applications are common pitfalls.",
+    "metadata": {
+      "category": "visa_info",
+      "region": "General"
+    }
+  },
+  {
+    "title": "Visa processing time expectations",
+    "body": "Processing time varies by country and season; apply well in advance and track embassy updates.",
+    "metadata": {
+      "category": "visa_info",
+      "region": "General"
+    }
+  },
+  {
+    "title": "How to use the Japan Rail Pass",
+    "body": "Purchase before arrival (for many nationalities), activate it at exchange offices, reserve seats for long-distance trains when possible.",
+    "metadata": {
+      "category": "transportation",
+      "region": "Japan"
+    }
+  },
+  {
+    "title": "Is Eurostar better than flying for London-Paris?",
+    "body": "Eurostar is often faster door-to-door and more comfortable; compare price and schedule.",
+    "metadata": {
+      "category": "transportation",
+      "region": "Europe"
+    }
+  },
+  {
+    "title": "Getting around New York City like a local",
+    "body": "Use the subway for most trips, get a MetroCard, walk between nearby neighborhoods and use ride-hailing for late nights.",
+    "metadata": {
+      "category": "transportation",
+      "region": "New York"
+    }
+  },
+  {
+    "title": "Car rental tips for road trips",
+    "body": "Check insurance coverage, inspect the car before driving, understand fuel policy, and follow local driving rules.",
+    "metadata": {
+      "category": "transportation",
+      "region": "General"
+    }
+  },
+  {
+    "title": "Using ride-hailing apps abroad",
+    "body": "Install local apps, register a payment method, and check driver and car details before boarding.",
+    "metadata": {
+      "category": "transportation",
+      "region": "General"
+    }
+  },
+  {
+    "title": "Best ways to travel around Iceland",
+    "body": "Rent a car for the ring road, check road conditions, and consider guided tours for remote areas.",
+    "metadata": {
+      "category": "transportation",
+      "region": "Iceland"
+    }
+  },
+  {
+    "title": "How to use public transport in Singapore",
+    "body": "Buy an EZ-Link or NETS FlashPay card for convenience; the MRT network covers major areas.",
+    "metadata": {
+      "category": "transportation",
+      "region": "Singapore"
+    }
+  },
+  {
+    "title": "Tips for booking budget flights",
+    "body": "Book connecting flights with enough layover, check baggage policy, and subscribe to fare alerts.",
+    "metadata": {
+      "category": "transportation",
+      "region": "General"
+    }
+  },
+  {
+    "title": "Overnight train travel tips",
+    "body": "Bring earplugs, a sleep mask, and a small travel pillow; reserve a berth for comfort.",
+    "metadata": {
+      "category": "transportation",
+      "region": "General"
+    }
+  },
+  {
+    "title": "Airport transfer options: taxi vs shuttle vs train",
+    "body": "Consider cost, luggage, time of day, and directness of route when choosing transfer options.",
+    "metadata": {
+      "category": "transportation",
+      "region": "General"
+    }
+  },
+  {
+    "title": "Navigating local buses in developing countries",
+    "body": "Carry local change, confirm fares, and ask locals or drivers for stop names.",
+    "metadata": {
+      "category": "transportation",
+      "region": "General"
+    }
+  },
+  {
+    "title": "How to reserve seats on long-distance trains in Europe",
+    "body": "Use national rail websites or Eurail reservation services; busy routes may require advance booking.",
+    "metadata": {
+      "category": "transportation",
+      "region": "Europe"
+    }
+  },
+  {
+    "title": "Cycling as a transport option in European cities",
+    "body": "Rent bikes from sharing schemes, follow cycling lanes, and lock bikes in secure spots.",
+    "metadata": {
+      "category": "transportation",
+      "region": "Europe"
+    }
+  },
+  {
+    "title": "Domestic flight tips within countries",
+    "body": "Use low-cost carriers for short hops, check baggage rules, and book early for lower prices.",
+    "metadata": {
+      "category": "transportation",
+      "region": "General"
+    }
+  },
+  {
+    "title": "Ferry travel tips for island hopping",
+    "body": "Check schedules, book vehicles in advance if needed, and arrive early for boarding.",
+    "metadata": {
+      "category": "transportation",
+      "region": "General"
+    }
+  },
+  {
+    "title": "How to choose a budget hostel",
+    "body": "Look for hostels with good reviews, secure lockers, female-only dorms if preferred, and a convenient location.",
+    "metadata": {
+      "category": "accommodation",
+      "region": "Hostel"
+    }
+  },
+  {
+    "title": "Benefits of serviced apartments for long stays",
+    "body": "Serviced apartments offer kitchen facilities, more space, and often lower weekly rates for long stays.",
+    "metadata": {
+      "category": "accommodation",
+      "region": "Apartments"
+    }
+  },
+  {
+    "title": "How to find family-friendly hotels",
+    "body": "Search for hotels with family rooms, child amenities, and nearby family attractions; check reviews for kid-friendliness.",
+    "metadata": {
+      "category": "accommodation",
+      "region": "Family"
+    }
+  },
+  {
+    "title": "Booking last-minute hotel deals",
+    "body": "Use mobile-only deals and last-minute booking apps for discounts, but check cancellation policies.",
+    "metadata": {
+      "category": "accommodation",
+      "region": "Booking"
+    }
+  },
+  {
+    "title": "What are boutique hotels?",
+    "body": "Small hotels with unique decor, personalized service, and often in trendy neighborhoods.",
+    "metadata": {
+      "category": "accommodation",
+      "region": "Hotels"
+    }
+  },
+  {
+    "title": "How to find eco-friendly accommodation",
+    "body": "Look for green certifications, eco policies, and hotels that emphasize sustainability in operations.",
+    "metadata": {
+      "category": "accommodation",
+      "region": "Sustainability"
+    }
+  },
+  {
+    "title": "Advantages of all-inclusive resorts",
+    "body": "Meals, drinks, and activities included can simplify budgeting for family vacations.",
+    "metadata": {
+      "category": "accommodation",
+      "region": "Resorts"
+    }
+  },
+  {
+    "title": "Pros and cons of Airbnb vs hotels",
+    "body": "Airbnb offers local feel and kitchens; hotels offer consistent service and on-site facilities.",
+    "metadata": {
+      "category": "accommodation",
+      "region": "Comparison"
+    }
+  },
+  {
+    "title": "How to read hotel reviews effectively",
+    "body": "Look for recent reviews about cleanliness, safety, and communication; beware of one-off extreme reviews.",
+    "metadata": {
+      "category": "accommodation",
+      "region": "Reviews"
+    }
+  },
+  {
+    "title": "How to book pet-friendly accommodation",
+    "body": "Filter listings for pet policies, check additional fees, and confirm size/weight restrictions.",
+    "metadata": {
+      "category": "accommodation",
+      "region": "Pets"
+    }
+  },
+  {
+    "title": "Seasonal pricing for hotels: when to book",
+    "body": "Book popular destinations months in advance; off-season travel can save money.",
+    "metadata": {
+      "category": "accommodation",
+      "region": "Pricing"
+    }
+  },
+  {
+    "title": "Long-term stay discounts and how to get them",
+    "body": "Contact property directly for weekly/monthly rates and negotiate for extended stays.",
+    "metadata": {
+      "category": "accommodation",
+      "region": "Long-term"
+    }
+  },
+  {
+    "title": "What to expect from host family stays",
+    "body": "Host family stays offer cultural immersion; respect household rules and meal arrangements.",
+    "metadata": {
+      "category": "accommodation",
+      "region": "Homestay"
+    }
+  },
+  {
+    "title": "How to secure a refundable room rate",
+    "body": "Choose flexible fare options and read cancellation windows; refundable rates may cost more upfront.",
+    "metadata": {
+      "category": "accommodation",
+      "region": "Booking"
+    }
+  },
+  {
+    "title": "Amenities to prioritize when booking hotels",
+    "body": "Consider Wi-Fi reliability, breakfast inclusion, location, safety, and 24-hour reception.",
+    "metadata": {
+      "category": "accommodation",
+      "region": "Amenities"
+    }
+  }
+]
