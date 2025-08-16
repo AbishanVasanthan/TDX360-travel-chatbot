@@ -12,7 +12,7 @@ let generator = null;
 async function loadEmbedder() {
   if (!embedder) {
     console.log(`Loading embedding model locally: ${HF_EMBED_MODEL}`);
-    embedder = await pipeline("feature-extraction", process.env.HF_EMBED_MODEL, {
+    embedder = await pipeline("feature-extraction", HF_EMBED_MODEL, {
       cache_dir: "/app/models"
     });
   }
@@ -24,7 +24,7 @@ async function loadGenerator() {
     const start = Date.now();
     console.log(`Loading generation model locally: ${HF_GEN_MODEL}`);
     // For text generation, task is 'text-generation'
-    generator = await pipeline("text-generation", process.env.HF_GEN_MODEL, {
+    generator = await pipeline("text-generation", HF_GEN_MODEL, {
       cache_dir: "/app/models"
     });
     console.log(`Model loaded in ${(Date.now() - start) / 1000}s`);
